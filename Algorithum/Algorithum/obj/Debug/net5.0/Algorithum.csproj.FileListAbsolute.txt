@@ -1,0 +1,16 @@
+C:\Users\anand\Desktop\Bridgelabz\Day16-Algorithum\Algorithum\Algorithum\bin\Debug\net5.0\Algorithum.exe
+C:\Users\anand\Desktop\Bridgelabz\Day16-Algorithum\Algorithum\Algorithum\bin\Debug\net5.0\Algorithum.deps.json
+C:\Users\anand\Desktop\Bridgelabz\Day16-Algorithum\Algorithum\Algorithum\bin\Debug\net5.0\Algorithum.runtimeconfig.json
+C:\Users\anand\Desktop\Bridgelabz\Day16-Algorithum\Algorithum\Algorithum\bin\Debug\net5.0\Algorithum.runtimeconfig.dev.json
+C:\Users\anand\Desktop\Bridgelabz\Day16-Algorithum\Algorithum\Algorithum\bin\Debug\net5.0\Algorithum.dll
+C:\Users\anand\Desktop\Bridgelabz\Day16-Algorithum\Algorithum\Algorithum\bin\Debug\net5.0\ref\Algorithum.dll
+C:\Users\anand\Desktop\Bridgelabz\Day16-Algorithum\Algorithum\Algorithum\bin\Debug\net5.0\Algorithum.pdb
+C:\Users\anand\Desktop\Bridgelabz\Day16-Algorithum\Algorithum\Algorithum\obj\Debug\net5.0\Algorithum.csproj.AssemblyReference.cache
+C:\Users\anand\Desktop\Bridgelabz\Day16-Algorithum\Algorithum\Algorithum\obj\Debug\net5.0\Algorithum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anand\Desktop\Bridgelabz\Day16-Algorithum\Algorithum\Algorithum\obj\Debug\net5.0\Algorithum.AssemblyInfoInputs.cache
+C:\Users\anand\Desktop\Bridgelabz\Day16-Algorithum\Algorithum\Algorithum\obj\Debug\net5.0\Algorithum.AssemblyInfo.cs
+C:\Users\anand\Desktop\Bridgelabz\Day16-Algorithum\Algorithum\Algorithum\obj\Debug\net5.0\Algorithum.csproj.CoreCompileInputs.cache
+C:\Users\anand\Desktop\Bridgelabz\Day16-Algorithum\Algorithum\Algorithum\obj\Debug\net5.0\Algorithum.dll
+C:\Users\anand\Desktop\Bridgelabz\Day16-Algorithum\Algorithum\Algorithum\obj\Debug\net5.0\ref\Algorithum.dll
+C:\Users\anand\Desktop\Bridgelabz\Day16-Algorithum\Algorithum\Algorithum\obj\Debug\net5.0\Algorithum.pdb
+C:\Users\anand\Desktop\Bridgelabz\Day16-Algorithum\Algorithum\Algorithum\obj\Debug\net5.0\Algorithum.genruntimeconfig.cache
